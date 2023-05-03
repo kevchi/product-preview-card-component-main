@@ -1,10 +1,5 @@
 # <ins>Frontend Mentor First week challenge</ins>
 
- https://preview-card.kevinchisholm.info/
-
-<a href="https://preview-card.kevinchisholm.info/" target="_blank"></a>
-preview-card.kevinchisholm.info
+You can see the full project at:
 https://preview-card.kevinchisholm.info/
-preview-card.kevinchisholm.info
->product-preview-card-component-main
- Frontendmentor First Week
+
